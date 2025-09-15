@@ -8,5 +8,3 @@ Incognis is an interactive PowerShell and Batch tool for scanning, previewing, c
 - Backup before destructive actions
 - Interactive and non-interactive modes
 - Logging and error handling
-
-See `ToDo.md` for full specification.
